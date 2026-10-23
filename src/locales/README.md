@@ -12,6 +12,7 @@ truth; every other locale is type-checked against it.
 | `de` | German — Deutsch | [`de.ts`](de.ts) |
 | `fr` | French — Français | [`fr.ts`](fr.ts) |
 | `zh` | Simplified Chinese — 简体中文 | [`zh.ts`](zh.ts) |
+| `pt-br` | Brazilian Portuguese — Português (Brasil) | [`pt-br.ts`](pt-br.ts) |
 
 ## How it works
 
